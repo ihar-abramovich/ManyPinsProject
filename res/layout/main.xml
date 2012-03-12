@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <com.forhabr.manypins.MyMapView
+        android:id="@+id/mapview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:apiKey="0lKQLw6fth4yYmAq1gzjNDpLa1AGY8JrWvIAEIQ"
+        android:clickable="true" />
+
+</RelativeLayout>
